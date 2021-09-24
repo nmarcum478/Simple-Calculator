@@ -1,0 +1,47 @@
+h1
+{
+  font-size: 45;
+}
+body
+{
+  background-color: lightgreen;
+}
+#numButton
+{
+  background-color: lightblue;
+  border-color: blue;
+  font-size: 20;
+  width: 40;
+  height: 40;
+  margin: 4;
+}
+#clearButton
+{
+  font-size: 20;
+  width: 80;
+  height: 40;
+  background-color: hsl(180, 100%, 40%);
+}
+#clearButton:hover{
+  background-color: hsl(180, 100%, 45%);
+  width: 76;
+  height: 38;
+  margin: 1;
+}
+hr
+{
+  height: 10;
+  background-color: green;
+  margin: 24;
+  width: 240;
+}
+#numButton:hover{
+  background-color: hsl(190, 100%, 50%);
+  margin: 5;
+  width: 38;
+  height: 38;
+}
+p{
+  font-size: 20;
+  font-family: sans-serif;
+}
